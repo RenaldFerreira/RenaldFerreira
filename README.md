@@ -1,7 +1,7 @@
-### Olá 👋
-   🙋‍♂️Eu sou Renald Ferreira, tenho 27 anos sou um programador Front End,atualmente sou aluno do DevClub.:rocket:
- 
-<br>
+### Olá👋 
+Eu sou Renald Ferreira, tenho 27 anos sou um desenvolvedor Front End, atualmente sou aluno do DevClub.:rocket:
+ <br>
+ <br>
 
 - :computer: Trabalho e desenvolvo projetos com essas tecnologias e ferramentas:
   
